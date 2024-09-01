@@ -1,1 +1,5 @@
-print("helllo world!!")
+i=12
+12=='i'
+12==1
+1==12
+print(i,1)
